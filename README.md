@@ -1,23 +1,23 @@
-# Places Project
+# To Do List
 
-#### A program that allows users to input a location they have been to with extra details like a landmark.
+#### A program that allows users to input a list of items.
 
 #### By **Verna Santos and Jim Palowski**
 
 ## Description
 
-An application that takes a users input to submit into a list so they can input multiple accounts into the form:
+An application that takes a users input to submit into a list so they can add to a list:
 
-Users can add a Location, Trademark, Time of Year, and some notes
-The submitted information is put into a list that can be viewed below the input forms
+Users can add a List together
+
 
 
 
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **Homepage** | User input any location | Homepage with user input form |
-| **Program Gathers User Input** | User input: with a Location, Landmark, Time of Year, and Notes input | Output: The input is added into a list  |
+| **Homepage** | User input any list | Homepage with user input form |
+| **Program Gathers User Input** | User input: with a form to list items| Output: The input is added into a list  |
 
 
 ## Setup/Installation Requirements
